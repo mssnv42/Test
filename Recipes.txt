@@ -2,3 +2,4 @@ welcome to first repo txtt file.
 
 banana
 pasta
+nife
